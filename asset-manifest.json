@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/defi4s/static/css/main.b100e6da.chunk.css",
+    "main.js": "/defi4s/static/js/main.5612d297.chunk.js",
+    "main.js.map": "/defi4s/static/js/main.5612d297.chunk.js.map",
+    "runtime-main.js": "/defi4s/static/js/runtime-main.7118d1ca.js",
+    "runtime-main.js.map": "/defi4s/static/js/runtime-main.7118d1ca.js.map",
+    "static/css/2.68a81a89.chunk.css": "/defi4s/static/css/2.68a81a89.chunk.css",
+    "static/js/2.88da5d28.chunk.js": "/defi4s/static/js/2.88da5d28.chunk.js",
+    "static/js/2.88da5d28.chunk.js.map": "/defi4s/static/js/2.88da5d28.chunk.js.map",
+    "index.html": "/defi4s/index.html",
+    "precache-manifest.e50e59a3d3d3c5760d5e628cec72ef38.js": "/defi4s/precache-manifest.e50e59a3d3d3c5760d5e628cec72ef38.js",
+    "service-worker.js": "/defi4s/service-worker.js",
+    "static/css/2.68a81a89.chunk.css.map": "/defi4s/static/css/2.68a81a89.chunk.css.map",
+    "static/css/main.b100e6da.chunk.css.map": "/defi4s/static/css/main.b100e6da.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7118d1ca.js",
+    "static/css/2.68a81a89.chunk.css",
+    "static/js/2.88da5d28.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.5612d297.chunk.js"
+  ]
+}
